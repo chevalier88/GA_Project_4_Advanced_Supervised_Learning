@@ -2,6 +2,7 @@
 
 _Team Members: Evonne, Graham, Rong Wong_
 
+![](https://www.vdci.net/hs-fs/hubfs/Vector_Borne_Disease_Education_Protecting_Public_Health-banner.png?width=1840&name=Vector_Borne_Disease_Education_Protecting_Public_Health-banner.png)
 
 ## Problem Statement
 
