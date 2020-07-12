@@ -2,8 +2,6 @@
 
 _Team Members: Evonne, Graham, Rong Wong_
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.richmondhill.ca%2Fen%2Ffind-or-learn-about%2FWest-Nile-Virus-and-Lyme-Disease.aspx&psig=AOvVaw0W2YOxKVV9hNC1dbCYHg7v&ust=1594613954800000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDqkpPuxuoCFQAAAAAdAAAAABAD" width=1088 height=332/>
-
 
 ## Problem Statement
 
