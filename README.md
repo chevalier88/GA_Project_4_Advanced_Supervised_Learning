@@ -21,6 +21,15 @@ This was followed by creating, cross-validating and evaluating multiple classifi
 We also saw that the top features of this model related not only to particular locations/traps, but also to specific weather features, owing to the relationship between mosquito breeding, temperature rises and humidity.
 Finally, a cost-benefit analysis was run examining the impact of spraying (or not spraying) pesticides in Chicago specifically in 2020, before expanding upon the subject and making realistic notes about the assumptions we made (and didn’t make). We also offered a 3-pronged solution to help address the WNV issue.
 
+## Project Planning
+Deliverables: our end result is 1)a predictive "Extreme" Gradient Boosting model to predict the presence of WNV, as well as 2) a cost benefit analysis examining whether spraying is justified as a primary means for transmission control. 3) We also recommend extraneous solutions based on external research to the CDC, culminating in a group presentation to our stakeholders, the CDC.
+
+To achieve these deliverables, we have broken up components and assigned workflow, with progress tracked on Github's native project management tool in our repo. Task assignment is based on key milestones, as follows:
+* Rong Wong: Cleaning, and EDA Part 1
+* Evonne: EDA Part 2, Feature Engineering and Pre-processing
+* Graham: Modelling Evaluation and Selection, Cost-Benefit Analysis + Recommendations
+* All: Presentation
+
 
 ## Data
 
